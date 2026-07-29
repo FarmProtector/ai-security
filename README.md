@@ -104,5 +104,3 @@ I added color to my responses by installing the Colorama library and updating pr
 This project took me approximately 40 minutes to complete. 
 
 ---
-
----
